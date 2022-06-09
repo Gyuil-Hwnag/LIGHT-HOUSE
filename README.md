@@ -1,13 +1,16 @@
-# Service : LIGHT HOUSE
+## Service : LIGHT HOUSE
 ## team : Light One
 
-## 사용기술
+### 사용기술
 - MVVM(AAC)
 - Koin(Di)
 - Jetpack Navigation & Safe args
 - MPChart
 
-## 일자별 진행상황
+### 시연영상
+<img src="![light_house](https://user-images.githubusercontent.com/84956038/172775567-94c1d740-c22c-4377-8c3e-aa1385452c9e.gif)">
+
+### 일자별 진행상황
 1. 2022.04.27(WEN) -> Base Settings(Base Activity, Base Fragment, Base ViewModel, Koin, My Application, Dependency, navigation graph, bottom navi)
 2. 2022.04.28(THU) -> Home Fragment (Recycler Adapter)
 3. 2022.04.29(FRI) -> Detail Fragment (doing, MPchart)
