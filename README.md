@@ -8,7 +8,7 @@
 - MPChart
 
 ### 시연영상
-<img src="![light_house](https://user-images.githubusercontent.com/84956038/172775567-94c1d740-c22c-4377-8c3e-aa1385452c9e.gif)">
+<img src="https://user-images.githubusercontent.com/84956038/172775825-bae7bdfc-83c7-41f9-81d2-d404d7423347.gif">
 
 ### 일자별 진행상황
 1. 2022.04.27(WEN) -> Base Settings(Base Activity, Base Fragment, Base ViewModel, Koin, My Application, Dependency, navigation graph, bottom navi)
