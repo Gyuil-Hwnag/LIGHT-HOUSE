@@ -11,7 +11,7 @@
 - MPChart
 
 ### 시연영상
-<img src="[https://user-images.githubusercontent.com/84956038/172775825-bae7bdfc-83c7-41f9-81d2-d404d7423347.gif](https://user-images.githubusercontent.com/84956038/172776306-e0e7b469-15e4-40bd-95a3-9ff16d6fbcc9.gif)">
+<img src="https://user-images.githubusercontent.com/84956038/172776306-e0e7b469-15e4-40bd-95a3-9ff16d6fbcc9.gif">
 
 ### 일자별 진행상황
 1. 2022.04.27(WEN) -> Base Settings(Base Activity, Base Fragment, Base ViewModel, Koin, My Application, Dependency, navigation graph, bottom navi)
