@@ -5,6 +5,9 @@
 - MVVM(AAC)
 - Koin(Di)
 - Jetpack Navigation & Safe args
+- Room DB
+- Coroutine
+- Rxjava
 - MPChart
 
 ### 시연영상
